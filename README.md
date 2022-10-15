@@ -147,6 +147,6 @@ helloworld.json 的格式如下：
 2. 项目根目录下执行 python main.py 会自动为新增节创建配置文件 data/1.xxx初阶/1.yyy/2.zzz/config.json
 
 **如何在节下新增一个习题**:
-3. 在"data/1.xxx初阶/1.yyy/2.zzz" 目录下添加一个 markdown 文件编辑，例如 yyy.md，按照习题markdown格式编辑习题。
-4. md编辑完后，可以再次执行  python main.py 会自动生成同名的 yyy.json，并将 yyy.json 添加到config.json 的export数组里。
-5. yyy.json里的author信息放作者 CSDN ID。
+1. 在"data/1.xxx初阶/1.yyy/2.zzz" 目录下添加一个 markdown 文件编辑，例如 yyy.md，按照习题markdown格式编辑习题。
+2. md编辑完后，可以再次执行  python main.py 会自动生成同名的 yyy.json，并将 yyy.json 添加到config.json 的export数组里。
+3. yyy.json里的author信息放作者 CSDN ID。
