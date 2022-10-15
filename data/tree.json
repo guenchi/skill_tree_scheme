@@ -1,0 +1,69 @@
+{
+  "scheme": {
+    "node_id": "scheme-1d9a6cb30d9e450ba5e8253363d733ab",
+    "keywords": [],
+    "children": [
+      {
+        "Scheme初阶": {
+          "node_id": "scheme-94c1e15a7ddf44718f0a71f52d8878f2",
+          "keywords": [],
+          "children": [
+            {
+              "Scheme入门": {
+                "node_id": "scheme-0a2ef3efcaab4456bab02a7346e8e57f",
+                "keywords": [],
+                "children": [
+                  {
+                    "HelloWorld": {
+                      "node_id": "scheme-d4721e0be8ef4ea6bf9d0f3b57a82900",
+                      "keywords": [],
+                      "children": [],
+                      "keywords_must": [],
+                      "keywords_forbid": [],
+                      "group": 0,
+                      "subtree": ""
+                    }
+                  }
+                ],
+                "keywords_must": [],
+                "keywords_forbid": [],
+                "group": 0,
+                "subtree": ""
+              }
+            }
+          ],
+          "keywords_must": [],
+          "keywords_forbid": [],
+          "group": 0,
+          "subtree": ""
+        }
+      },
+      {
+        "Scheme中阶": {
+          "node_id": "scheme-4603352847ca4df89cedbbff743e58f2",
+          "keywords": [],
+          "children": [],
+          "keywords_must": [],
+          "keywords_forbid": [],
+          "group": 0,
+          "subtree": ""
+        }
+      },
+      {
+        "Scheme高阶": {
+          "node_id": "scheme-2575c2cd26f847ea93415549c6c026a2",
+          "keywords": [],
+          "children": [],
+          "keywords_must": [],
+          "keywords_forbid": [],
+          "group": 0,
+          "subtree": ""
+        }
+      }
+    ],
+    "keywords_must": [],
+    "keywords_forbid": [],
+    "group": 0,
+    "subtree": ""
+  }
+}

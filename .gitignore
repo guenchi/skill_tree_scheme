@@ -1,0 +1,10 @@
+.vscode
+.idea
+.DS_Store
+__pycache__
+*.pyc
+*.zip
+*.out
+bin/
+debug/
+release/
