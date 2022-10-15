@@ -78,6 +78,6 @@ Racket 的官方网站是：https://www.racket-lang.org/
 (define hello-w "Hello,W")
 (display hello-w)
 
-(define orld "orld!)
+(define orld "orld!")
 (display orld)
 ```
