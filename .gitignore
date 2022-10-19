@@ -8,3 +8,13 @@ __pycache__
 bin/
 debug/
 release/
+
+*.ss~
+*.ss#*
+.#*.ss
+*.scm~
+*.scm#*
+.#*.scm
+*.so
+img/.DS_Store
+.DS_Store
