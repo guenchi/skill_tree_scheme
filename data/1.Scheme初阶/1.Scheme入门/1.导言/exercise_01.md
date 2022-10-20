@@ -85,7 +85,7 @@ Copyright 1984-2019 Cisco Systems, Inc.
 > 
 ```
 
-*** 这个`>`开头的程序提示符称为REPL，即Read-Eval-Print loop，"读取求值打印循环"，可是LISP的独创，由L. Peter Deutsch和Edmund Berkeley在1964年为DPD-1实现LISP实现创造。***
+> 这个`>`开头的程序提示符称为REPL，即Read-Eval-Print loop，"读取求值打印循环"，可是LISP的独创，由L. Peter Deutsch和Edmund Berkeley在1964年为DPD-1实现LISP实现创造。
 
 如今REPL已经成为程序运行时的标配，在之后的学习中你会慢慢发现，LISP和Scheme是怎样深刻影响程序设计语言发展的.
 
@@ -101,7 +101,7 @@ Scheme提供了底层的输出输出流端口读取和写入,在这里我们只�
 > (display "Hello,World!")
 ```
 
-*** 所有的Scheme语句都由小括号"("包裹")"，它表示以括号内的第一个元素为函数，剩下的元素为参数求值。 ***
+> 所有的Scheme语句都由小括号"("包裹")"，它表示以括号内的第一个元素为函数，剩下的元素为参数求值。 
 
 这个简单的程序输出
 ```scheme
@@ -117,7 +117,7 @@ Hello,World!
 > 
 ```
 
-*** write输出的内容可以被Scheme程序再次从输出流中读取。而display则以更简洁的形式将内容打印到控制台窗口。 ***
+> write输出的内容可以被Scheme程序再次从输出流中读取。而display则以更简洁的形式将内容打印到控制台窗口。 
 
 
 # {哪个是正确的Scheme程序?}
